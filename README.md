@@ -1,4 +1,4 @@
-<center>💻 Programming Skills: Java, MySQL, Python, Html, Css, Ev3
+                                                       💻 Programming Skills: Java, MySQL, Python, Html, Css, Ev3
 <br>
 Live tomorrow from today😉😉 
 <br>
