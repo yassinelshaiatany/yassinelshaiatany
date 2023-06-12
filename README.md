@@ -1,8 +1,9 @@
 I'm Yassin Elshaiatany, Software Developer
 
-💻 Programming Skills: Java, MySQL, Python, Html, Css, Ev3
+💻 Programming Skills: C++, Java, MySQL, Python, Html, Css, Ev3
 <br>
 <br>
+![c++](https://cdn-icons-png.flaticon.com/64/6132/6132222.png)
 ![java](https://user-images.githubusercontent.com/84511001/129668970-18927316-8d29-4187-95d3-0d7068d5b45f.png)
 ![mysql](https://user-images.githubusercontent.com/84511001/129669632-55d9ebab-15b6-48a5-86f3-0c79345ea3a6.png)
 ![python](https://cdn-icons-png.flaticon.com/64/5968/5968350.png)
