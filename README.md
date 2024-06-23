@@ -33,6 +33,7 @@ Hi there! I'm Yassin El Shaiatany, a seasoned programmer and penetration tester 
 - Java QR Code Reader & Generator
 
 🔹 About Me:
+
 With a keen eye for detail and a commitment to staying ahead of emerging threats, I continually enhance my skills through hands-on projects and continuous learning. I enjoy collaborating with the community and sharing knowledge to foster a safer digital world.
 
 🔹 Let's Connect:
