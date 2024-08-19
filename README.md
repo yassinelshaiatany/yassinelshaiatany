@@ -16,7 +16,9 @@ Hi there! I'm Yassin El Shaiatany, a seasoned programmer and penetration tester 
 
 - Tools & Technologies: Metasploit, Burp Suite, Nmap, Wireshark, and more
 
-🔹 Certifications (Studied Content Only):
+🔹 Certifications
+
+:
 
 - Certified Ethical Hacker (CEH)
 
@@ -44,3 +46,5 @@ Hi there! I'm Yassin El Shaiatany, a seasoned programmer and penetration tester 
  LinkedIn: [https://linkedin.com/in/ym-mohamed]
 
  Email: [yassin.mohammed55@gmail.com]
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6606be68da1671f986d7c560?variant=dark)](https://roadmap.sh)
