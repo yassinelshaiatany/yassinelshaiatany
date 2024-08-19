@@ -16,9 +16,7 @@ Hi there! I'm Yassin El Shaiatany, a seasoned programmer and penetration tester 
 
 - Tools & Technologies: Metasploit, Burp Suite, Nmap, Wireshark, and more
 
-🔹 Certifications
-
-:
+🔹 Certifications:
 
 - Certified Ethical Hacker (CEH)
 
